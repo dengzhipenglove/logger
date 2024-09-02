@@ -1,0 +1,47 @@
+{"level":"info","ts":"2024-09-02T10:07:50.679+0800","caller":"logtest/main.go:79","msg":"create logger success","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:07:50.684+0800","caller":"logtest/main.go:18","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:07:50.684+0800","caller":"logtest/main.go:24","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"info","ts":"2024-09-02T10:08:17.731+0800","caller":"logtest/main.go:81","msg":"create logger success","serviceName":"测试名字"}
+{"level":"debug","ts":"2024-09-02T10:08:17.735+0800","caller":"logtest/main.go:18","msg":"dfds","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:08:17.735+0800","caller":"logtest/main.go:20","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:08:17.736+0800","caller":"logtest/main.go:26","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"info","ts":"2024-09-02T10:11:58.038+0800","caller":"logger/logger.go:53","msg":"create logger success","serviceName":"测试名字"}
+{"level":"debug","ts":"2024-09-02T10:11:58.043+0800","caller":"logtest/main.go:17","msg":"dfds","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:11:58.043+0800","caller":"logtest/main.go:19","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:11:58.043+0800","caller":"logtest/main.go:25","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"info","ts":"2024-09-02T10:18:55.836+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:18:55.840+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"debug","ts":"2024-09-02T10:18:55.840+0800","caller":"logtest/main.go:17","msg":"dfds","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:18:55.840+0800","caller":"logtest/main.go:19","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:18:55.840+0800","caller":"logtest/main.go:25","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"debug","ts":"2024-09-02T10:18:55.840+0800","caller":"logger/logger.go:74","msg":"fdfdsfdffdsdf","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:19:01.330+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:19:01.335+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"debug","ts":"2024-09-02T10:19:01.335+0800","caller":"logtest/main.go:17","msg":"dfds","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:19:01.335+0800","caller":"logtest/main.go:19","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:19:01.335+0800","caller":"logtest/main.go:25","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"debug","ts":"2024-09-02T10:19:01.335+0800","caller":"logger/logger.go:74","msg":"----fdfdsfdffdsdf","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:19:16.899+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:19:16.904+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"debug","ts":"2024-09-02T10:19:16.904+0800","caller":"logtest/main.go:17","msg":"dfds","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:19:16.904+0800","caller":"logtest/main.go:19","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:19:16.904+0800","caller":"logtest/main.go:25","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"debug","ts":"2024-09-02T10:19:16.904+0800","caller":"logger/logger.go:74","msg":"----fdfdsfd---ffdsdf","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:23:46.974+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:23:46.978+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"debug","ts":"2024-09-02T10:23:46.978+0800","caller":"logtest/main.go:17","msg":"dfds","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:23:46.978+0800","caller":"logtest/main.go:19","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:23:46.978+0800","caller":"logtest/main.go:25","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"debug","ts":"2024-09-02T10:23:46.978+0800","caller":"logger/logger.go:74","msg":"----fdfdsfd---ffdsdf{field 15 0 fdsdf <nil>}","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:24:04.657+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:24:04.661+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"debug","ts":"2024-09-02T10:24:04.661+0800","caller":"logtest/main.go:17","msg":"dfds","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:24:04.661+0800","caller":"logtest/main.go:19","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:24:04.661+0800","caller":"logtest/main.go:25","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"debug","ts":"2024-09-02T10:24:04.661+0800","caller":"logger/logger.go:74","msg":"----fdfdsfd{field 15 0 fdsdf <nil>}","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:27:32.604+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:27:32.608+0800","caller":"logger/logger.go:55","msg":"create logger success","serviceName":"测试名字"}
+{"level":"debug","ts":"2024-09-02T10:27:32.608+0800","caller":"logtest/main.go:17","msg":"dfds","serviceName":"测试名字"}
+{"level":"info","ts":"2024-09-02T10:27:32.608+0800","caller":"logtest/main.go:19","msg":"test","serviceName":"测试名字","string":"string","int":3,"time":1}
+{"level":"info","ts":"2024-09-02T10:27:32.608+0800","caller":"logtest/main.go:25","msg":"test-","serviceName":"测试名字","string":"string","int":1,"time":1}
+{"level":"debug","ts":"2024-09-02T10:27:32.608+0800","caller":"logger/logger.go:74","msg":"----fdfdsfd","serviceName":"测试名字"}
